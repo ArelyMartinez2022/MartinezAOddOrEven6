@@ -1,0 +1,15 @@
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/bin/Debug/net6.0/MartinezAOddOrEven6
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/bin/Debug/net6.0/MartinezAOddOrEven6.deps.json
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/bin/Debug/net6.0/MartinezAOddOrEven6.runtimeconfig.json
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/bin/Debug/net6.0/MartinezAOddOrEven6.dll
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/bin/Debug/net6.0/MartinezAOddOrEven6.pdb
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/obj/Debug/net6.0/MartinezAOddOrEven6.csproj.AssemblyReference.cache
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/obj/Debug/net6.0/MartinezAOddOrEven6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/obj/Debug/net6.0/MartinezAOddOrEven6.AssemblyInfoInputs.cache
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/obj/Debug/net6.0/MartinezAOddOrEven6.AssemblyInfo.cs
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/obj/Debug/net6.0/MartinezAOddOrEven6.csproj.CoreCompileInputs.cache
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/obj/Debug/net6.0/MartinezAOddOrEven6.dll
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/obj/Debug/net6.0/refint/MartinezAOddOrEven6.dll
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/obj/Debug/net6.0/MartinezAOddOrEven6.pdb
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/obj/Debug/net6.0/MartinezAOddOrEven6.genruntimeconfig.cache
+/Users/arelymartinez/Desktop/redo/MartinezAOddOrEven6/obj/Debug/net6.0/ref/MartinezAOddOrEven6.dll
